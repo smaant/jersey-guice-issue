@@ -1,5 +1,5 @@
 This is a very simple app (based on one of the Jersey examples), which reproduce the issue
-with jersey2-guice and Jersey >= 2.16 packed into the uber-jar.
+with jersey2-guice and Jersey >= 2.16 packed into the uber-jar (https://github.com/Squarespace/jersey2-guice/issues/30).
 
 To run:
 ```bash
